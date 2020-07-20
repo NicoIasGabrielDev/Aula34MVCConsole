@@ -1,0 +1,13 @@
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.exe
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.deps.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.dev.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csprojAssemblyReference.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfoInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfo.cs
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csproj.CoreCompileInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Progamação Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.genruntimeconfig.cache
